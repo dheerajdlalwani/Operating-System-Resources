@@ -5,12 +5,12 @@ A repository where I collect my Operating System Knowledge and resources as much
 
 ## Where I am learning from?
 
-- [Operating System Concepts By Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, 9th Edition](http://www.cs.nthu.edu.tw/~ychung/slides/CSC3150/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf)
 
-- [A NPTEL Couse by Prof. Santanu Chattopadhyay from IIT Kharagpur](https://nptel.ac.in/courses/106/105/106105214/)
 
-- [A book associated to the course above by Prof. Santanu Chattopadhyay](https://drive.google.com/file/d/1Hc0TAPZh5nUZHfwPsxOq1ynUfPNi1NQw/view)
-
-- [A really important resource](https://www.google.com)
-
-- [A drive link if the above links aren't working. It is advised that you try the above links 1st and use this link as a last resort](https://drive.google.com/drive/folders/1pztviwecK4nmi8e3wkrCr2PPqqQ2cV4x?usp=sharing)
+Name | Type | Author/Owner | Link 
+-----|------|--------------|-----
+Operating System Concepts | Book | Abraham Silberschatz, Peter Baer Galvin, Greg Gagne | [Link](http://www.cs.nthu.edu.tw/~ychung/slides/CSC3150/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf)
+NPTEL Course | Audio/Video + Web Course | Prof. Santanu Chattopadhyay | [Link](https://nptel.ac.in/courses/106/105/106105214)
+OS Notes | Book | Prof. Santanu Chattopadhyay | [Link](https://drive.google.com/file/d/1Hc0TAPZh5nUZHfwPsxOq1ynUfPNi1NQw/view)
+Important Resource | Website | - | [Link](https://www.google.com)
+| PDFs * | Drive Link | - | [Link](https://drive.google.com/drive/folders/1pztviwecK4nmi8e3wkrCr2PPqqQ2cV4x?usp=sharing)
