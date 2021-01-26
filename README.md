@@ -14,3 +14,5 @@ NPTEL Course | Audio/Video + Web Course | Prof. Santanu Chattopadhyay | [Link](h
 OS Notes | Book | Prof. Santanu Chattopadhyay | [Link](https://drive.google.com/file/d/1Hc0TAPZh5nUZHfwPsxOq1ynUfPNi1NQw/view)
 Important Resource | Website | - | [Link](https://www.google.com)
 PDFs * | Drive Link | - | [Link](https://drive.google.com/drive/folders/1pztviwecK4nmi8e3wkrCr2PPqqQ2cV4x?usp=sharing)
+
+* Please use the Drive link as a last resort if the links above are not working
