@@ -2,9 +2,11 @@
 
 ## Need for an Operating System
 
+<center>
 
 ![](images/Block_Level_Computer_System.jpg)
 
+</center>
 
 <center>
 <h3> An Operating System Acting as an Intermediate between User and Hardware </h3>
