@@ -24,3 +24,4 @@ PDFs * | Drive Link | - | [Link](https://drive.google.com/drive/folders/1pztviwe
 
 - [Introduction To Operating System](introduction.md)
 - [Process Management](process_management.md)
+- [System Calls](system_calls.md)
