@@ -9,6 +9,7 @@ A repository where I collect my Operating System Knowledge and resources as much
 
 Name | Type | Author/Owner | Link 
 -----|------|--------------|-----
+Modern Operating Systems | Book | Andrew S. Tanenbaum | [Link](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf)
 Operating Systems: Internals and Design Principles | Book | William Stallings | [Link](https://sgp1.digitaloceanspaces.com/proletarian-library/books/5b0c7356751347504e2f6ce19e42d218.pdf)
 Operating System Concepts | Book | Abraham Silberschatz, Peter Baer Galvin, Greg Gagne | [Link](http://www.cs.nthu.edu.tw/~ychung/slides/CSC3150/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf)
 University Of Wisconsin, Madison Course | Audio/Video | Remzi Arpaci-Dusseau | [Link](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html)
